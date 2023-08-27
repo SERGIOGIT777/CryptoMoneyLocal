@@ -1,5 +1,6 @@
 package com.example.money.entities;
 
+import io.swagger.v3.oas.annotations.Hidden;
 import jakarta.persistence.*;
 import lombok.Getter;
 import lombok.Setter;
